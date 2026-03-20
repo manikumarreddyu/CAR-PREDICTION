@@ -15,7 +15,7 @@
     "clsx": "^2.1.0",
     "dotenv": "^16.4.5",
     "lucide-react": "^0.303.0",
-    "next": "14.0.4",
+    "next": "15.5.14",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.12.0",
