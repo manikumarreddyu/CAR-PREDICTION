@@ -23,7 +23,7 @@
     "mongoose": "^6.9.0",
     "nanoid": "^5.0.8",
     "node-cron": "^3.0.3",
-    "nodemailer": "^6.9.16",
+    "nodemailer": "^8.0.5",
     "nodemon": "^2.0.20",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
